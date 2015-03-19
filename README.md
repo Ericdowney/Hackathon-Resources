@@ -10,11 +10,18 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [Swift Resources](https://developer.apple.com/swift/resources/)
   * [Swift - Foundation Framework Reference](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html)
   * [Swift - UIKit Framework Reference](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/)
+  * [Swift - App Extensions](http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
+  * [Swift - Watchkit Tutorial](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started)
 
-## AngularJS
+## AngularJS / Javascript
 
   * [AngularJS](https://angularjs.org/)
-  * [JVanDemo.com](http://www.jvandemo.com/)
+  * [AngularJS - JVanDemo.com](http://www.jvandemo.com/)
+  * [AngularJS - Custom Directives](http://www.ng-newsletter.com/posts/directives.html)
+  * [AngularJS - Angulartics](http://luisfarzati.github.io/angulartics/)
+  * [JQuery - Scroll Path](http://joelb.me/scrollpath/)
+  * [Javascript - Tearable Cloth Physics Sim](http://codepen.io/suffick/pen/KrAwx)
+  * []()
 
 ## Android
 
@@ -25,4 +32,9 @@ A list of resources to use for reference or ideas during the Hackathon.
 ## Java
 
 ## Unity
+
+## General
+
+ * [Ruby - Interactive Debugging](http://tutorials.jumpstartlab.com/topics/debugging/debugger.html)
+ * [Python - Flask Microframework](http://flask.pocoo.org/)
 
