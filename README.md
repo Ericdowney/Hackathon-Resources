@@ -34,7 +34,7 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [Android SDK](http://developer.android.com/sdk/index.html)
   * [Android Studio Install Failed - Windows 7](http://stackoverflow.com/questions/16574189/android-studio-installation-on-windows-7-fails-no-jdk-found)
 
-## Windows / Windows Phone 8
+## Windows
 
   * [Windows Developement](https://dev.windows.com/en-us/develop)
   * [Visual Studio Community 2013](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
@@ -43,6 +43,9 @@ A list of resources to use for reference or ideas during the Hackathon.
 ## Grails & Groovy
 
 ## Java
+
+  * [Java API](http://docs.oracle.com/javase/7/docs/api/)
+  * [Interactive Java Tutorials](http://www.learnjavaonline.org/)
 
 ## Unity
 
@@ -54,6 +57,8 @@ A list of resources to use for reference or ideas during the Hackathon.
 
 ## General
 
- * [Ruby - Interactive Debugging](http://tutorials.jumpstartlab.com/topics/debugging/debugger.html)
- * [Python - Flask Microframework](http://flask.pocoo.org/)
+  * [PluralSight - Subscription Required](http://www.pluralsight.com/)
+  * [Digital Tutors](http://www.digitaltutors.com/)
+  * [Ruby - Interactive Debugging](http://tutorials.jumpstartlab.com/topics/debugging/debugger.html)
+  * [Python - Flask Microframework](http://flask.pocoo.org/)
 
