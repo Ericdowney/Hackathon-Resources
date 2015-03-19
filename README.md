@@ -37,12 +37,20 @@ A list of resources to use for reference or ideas during the Hackathon.
 ## Windows / Windows Phone 8
 
   * [Windows Developement](https://dev.windows.com/en-us/develop)
+  * [Visual Studio Community 2013](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
+  * [Microsoft API Reference](https://msdn.microsoft.com/en-us/library/ms123401.aspx)
 
 ## Grails & Groovy
 
 ## Java
 
 ## Unity
+
+  * [Unity 5.0](http://unity3d.com/)
+  * [Unity Store](https://store.unity3d.com/)
+  * [Unity Community](http://unity3d.com/community)
+  * [Unity Tutorials](http://unity3d.com/learn/tutorials/modules)
+  * [Unity Udemy Course](https://www.udemy.com/unitycourse/?dtcode=leMKmas2AvU0)
 
 ## General
 
