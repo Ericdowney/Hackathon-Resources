@@ -60,6 +60,7 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [Unity Community](http://unity3d.com/community)
   * [Unity Tutorials](http://unity3d.com/learn/tutorials/modules)
   * [Unity Udemy Course](https://www.udemy.com/unitycourse/?dtcode=leMKmas2AvU0)
+  * [Unity Live Training Archive](http://unity3d.com/learn/tutorials/modules/live-training-archive)
 
 ## Windows
 
