@@ -42,6 +42,11 @@ A list of resources to use for reference or ideas during the Hackathon.
 
 ## Grails & Groovy
 
+  * [Groovy](http://groovy-lang.org/)
+  * [Groovy - Getting Started](http://groovy.codehaus.org/Beginners+Tutorial)
+  * [Grails](https://grails.org/)
+  * [Grails Core Github](https://github.com/grails/grails-core)
+
 ## Java
 
   * [Java API](http://docs.oracle.com/javase/7/docs/api/)
@@ -58,7 +63,7 @@ A list of resources to use for reference or ideas during the Hackathon.
 ## General
 
   * [PluralSight - Subscription Required](http://www.pluralsight.com/)
-  * [Digital Tutors](http://www.digitaltutors.com/)
+  * [Digital Tutors - Subscription Required](http://www.digitaltutors.com/)
   * [Ruby - Interactive Debugging](http://tutorials.jumpstartlab.com/topics/debugging/debugger.html)
   * [Python - Flask Microframework](http://flask.pocoo.org/)
 
