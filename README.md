@@ -30,7 +30,13 @@ A list of resources to use for reference or ideas during the Hackathon.
 
 ## Android
 
-## Windows Phone 8
+  * [Android](http://developer.android.com/index.html)
+  * [Android SDK](http://developer.android.com/sdk/index.html)
+  * [Android Studio Install Failed - Windows 7](http://stackoverflow.com/questions/16574189/android-studio-installation-on-windows-7-fails-no-jdk-found)
+
+## Windows / Windows Phone 8
+
+  * [Windows Developement](https://dev.windows.com/en-us/develop)
 
 ## Grails & Groovy
 
