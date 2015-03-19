@@ -15,9 +15,12 @@ A list of resources to use for reference or ideas during the Hackathon.
 
 ## AngularJS / Javascript
 
+  * [NodeJS](https://nodejs.org/)
   * [NodeJS - NPM](https://www.npmjs.com/)
   * [Bower](http://bower.io/)
   * [Gulp](http://gulpjs.com/)
+  * [Gulp - Getting Started](http://travismaynard.com/writing/getting-started-with-gulp)
+  * [Jasmine](http://jasmine.github.io/)
   * [AngularJS](https://angularjs.org/)
   * [AngularJS - JVanDemo.com](http://www.jvandemo.com/)
   * [AngularJS - Custom Directives](http://www.ng-newsletter.com/posts/directives.html)
