@@ -51,7 +51,7 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [Swift Resources](https://developer.apple.com/swift/resources/)
   * [Foundation Framework Reference](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html)
   * [UIKit Framework Reference](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/)
-  * [App Extensions](http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
+  * [App Extensions Tutorial](http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
   * [Watchkit Tutorial](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started)
 
 ## Unity
