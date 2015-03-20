@@ -29,6 +29,7 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [Digital Tutors - Subscription Required](http://www.digitaltutors.com/)
   * [Ruby - Interactive Debugging](http://tutorials.jumpstartlab.com/topics/debugging/debugger.html)
   * [Python - Flask Microframework](http://flask.pocoo.org/)
+  * [Twitter Bootstrap](http://getbootstrap.com/)
 
 ## Grails & Groovy
 
