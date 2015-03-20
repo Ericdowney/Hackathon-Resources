@@ -53,6 +53,7 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [UIKit Framework Reference](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/)
   * [App Extensions Tutorial](http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
   * [Watchkit Tutorial](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started)
+  * [CocoaPods](http://cocoapods.org/)
 
 ## Unity
 
