@@ -68,4 +68,5 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [Windows Developement](https://dev.windows.com/en-us/develop)
   * [Visual Studio Community 2013](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
   * [Microsoft API Reference](https://msdn.microsoft.com/en-us/library/ms123401.aspx)
+  * [Windows Phone 8 - Getting Started](http://code.tutsplus.com/tutorials/windows-phone-8-creating-your-first-application--mobile-21175)
 
