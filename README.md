@@ -42,7 +42,7 @@ A list of resources to use for reference or ideas during the Hackathon.
   * [Java API](http://docs.oracle.com/javase/7/docs/api/)
   * [Interactive Java Tutorials](http://www.learnjavaonline.org/)
 
-## Swift
+## iOS / Swift
 
   * [Awesome Swift](https://github.com/Wolg/awesome-swift/blob/master/README.md)
   * [Swift Toolbox](http://swifttoolbox.io)
